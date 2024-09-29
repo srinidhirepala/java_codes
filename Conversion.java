@@ -1,4 +1,4 @@
-10.Develop a java application to inherit currency converter (Dollar to INR, EURO to INR, Yen to INR and vice versa), distance converter (meter to KM, miles to KM and vice versa) , time converter (hours to minutes, seconds and vice versa) from a base class Converter
+//10.Develop a java application to inherit currency converter (Dollar to INR, EURO to INR, Yen to INR and vice versa), distance converter (meter to KM, miles to KM and vice versa) , time converter (hours to minutes, seconds and vice versa) from a base class Converter
 
 
 import java.util.*;
