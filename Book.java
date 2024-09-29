@@ -1,4 +1,4 @@
-4.Create a class called Book to represent a book. A Book should include four pieces of information as instance variables‐a book name, an ISBN number, an author name and a publisher. Your class should have a constructor that initializes the four instance variables. Provide a set method and get method for each instance variable. In addition, provide a method named getBookInfo that returns the description of the book as a String.
+//4.Create a class called Book to represent a book. A Book should include four pieces of information as instance variables‐a book name, an ISBN number, an author name and a publisher. Your class should have a constructor that initializes the four instance variables. Provide a set method and get method for each instance variable. In addition, provide a method named getBookInfo that returns the description of the book as a String.
 
 import java.util.*;
 class Book
