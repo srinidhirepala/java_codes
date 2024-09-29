@@ -1,4 +1,4 @@
-9.Create an abstract class 'Bank' with an abstract method 'getBalance'. $100, $150 and $200 are deposited in banks A, B and C respectively. 'BankA', 'BankB' and  'BankC' are subclasses of class 'Bank', each having a method named 'getBalance'
+//9.Create an abstract class 'Bank' with an abstract method 'getBalance'. $100, $150 and $200 are deposited in banks A, B and C respectively. 'BankA', 'BankB' and  'BankC' are subclasses of class 'Bank', each having a method named 'getBalance'
 
 import java.util.*;
 
