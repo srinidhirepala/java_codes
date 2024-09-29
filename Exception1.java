@@ -1,4 +1,4 @@
-11.	Write a Java program that works as a simple calculator. Use a switch statement to accept 2 numbers and an operator for the +, -,*, % operations. Perform arithmetic operation display the result. Handle any possible exceptions like divided by zero for division operation
+//11.	Write a Java program that works as a simple calculator. Use a switch statement to accept 2 numbers and an operator for the +, -,*, % operations. Perform arithmetic operation display the result. Handle any possible exceptions like divided by zero for division operation
 
 class Exception1
 {
