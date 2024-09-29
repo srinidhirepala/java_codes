@@ -1,4 +1,4 @@
-5. Write a Java program to print all numbers below 100,000 that are both prime and Fibonacci number (some examples are 2, 3, 5, 13, etc.).
+//5. Write a Java program to print all numbers below 100,000 that are both prime and Fibonacci number (some examples are 2, 3, 5, 13, etc.).
 
 
 class PrimeFiboNumbers {
